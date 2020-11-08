@@ -1,0 +1,85 @@
+{
+  "main": {
+    "id": "e4a32c34d27c5e70",
+    "type": "split",
+    "children": [
+      {
+        "id": "20acd9be6f0ef633",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Note/GitHub學習/實戰教學/1. 安裝並且設定 Git.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e96e120fa81a7072",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcba4f40a1fb737d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d860b5f9e086552",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d6948b05503037c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2fcd32f6b71456da",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5212e1955fde46b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ab4fe813724f024",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Note/GitHub學習/實戰教學/1. 安裝並且設定 Git.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Note/GitHub學習/實戰教學/1. 安裝並且設定 Git.md",
+    "Note/GitHub學習/4. Git 與 Github 實戰操作入門教學.md",
+    "Note/GitHub學習/3. Git基本觀念.md",
+    "Note/GitHub學習/2. 什麼是Github.md",
+    "Note/GitHub學習/1. 什麼是Git.md"
+  ]
+}
