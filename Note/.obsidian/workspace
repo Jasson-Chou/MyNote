@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note/GitHub學習/實戰教學/1. 安裝並且設定 Git.md",
+            "file": "Note/GitHub學習/4. Git 與 Github 實戰操作入門教學.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/GitHub學習/實戰教學/1. 安裝並且設定 Git.md"
+                "file": "Note/GitHub學習/4. Git 與 Github 實戰操作入門教學.md"
               }
             }
           }
@@ -76,10 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Note/GitHub學習/實戰教學/1. 安裝並且設定 Git.md",
     "Note/GitHub學習/4. Git 與 Github 實戰操作入門教學.md",
     "Note/GitHub學習/3. Git基本觀念.md",
     "Note/GitHub學習/2. 什麼是Github.md",
-    "Note/GitHub學習/1. 什麼是Git.md"
+    "Note/GitHub學習/1. 什麼是Git.md",
+    "Note/Pasted image 20201108212113.png",
+    "Pasted image 20201108230851.png",
+    "Pasted image 20201108231417.png",
+    "Pasted image 20201108231505.png",
+    "Pasted image 20201108231516.png",
+    "Pasted image 20201108231602.png"
   ]
 }
