@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note/SG9KG5/Waveform Tool/Algorithm - 尋找 畫面中第一個Period Index和最後一個Period Index.md",
+            "file": "Note/MyGitHub/我的Github網址.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/SG9KG5/Waveform Tool/Algorithm - 尋找 畫面中第一個Period Index和最後一個Period Index.md",
+                "file": "Note/MyGitHub/我的Github網址.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Note/SG9KG5/Waveform Tool/Untitled.md",
     "Note/MyGitHub/我的Github網址.md",
-    "Note/Pasted image 20201108211935.png",
-    "Note/Untitled.md",
+    "Note/GitHub學習/4. Git 與 Github 實戰操作入門教學.md",
     "Note/GitHub學習/5. Git 學習網站.md",
     "Note/GitHub學習/3. Git基本觀念.md",
-    "Note/GitHub學習/4. Git 與 Github 實戰操作入門教學.md",
-    "Note/GitHub學習/Untitled.md",
+    "Note/GitHub學習/2. 什麼是Github.md",
     "Note/GitHub學習/1. 什麼是Git.md",
-    "Note/GitHub學習/2. 什麼是Github.md"
+    "Note/GitHub學習/實戰教學/1. 安裝並且設定 Git.md",
+    "Note/Pasted image 20201108211935.png",
+    "Note/Pasted image 20201108212113.png",
+    "Pasted image 20201108230912.png"
   ]
 }
