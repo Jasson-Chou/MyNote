@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note/MyGitHub/我的Github網址.md",
+            "file": "代辦事項.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/MyGitHub/我的Github網址.md",
+                "file": "代辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +86,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "代辦事項.md",
+    "Untitled.md",
     "Note/MyGitHub/我的Github網址.md",
     "Note/GitHub學習/4. Git 與 Github 實戰操作入門教學.md",
     "Note/GitHub學習/5. Git 學習網站.md",
@@ -93,8 +95,6 @@
     "Note/GitHub學習/2. 什麼是Github.md",
     "Note/GitHub學習/1. 什麼是Git.md",
     "Note/GitHub學習/實戰教學/1. 安裝並且設定 Git.md",
-    "Note/Pasted image 20201108211935.png",
-    "Note/Pasted image 20201108212113.png",
-    "Pasted image 20201108230912.png"
+    "Note/Pasted image 20201108211935.png"
   ]
 }
