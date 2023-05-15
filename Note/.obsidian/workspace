@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "20acd9be6f0ef633",
+        "id": "8c51ab28cc780cd4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Note/STM32F407/Timer1&Timer8/X1. Input Capture mode.md",
+            "mode": "source"
+          }
+        },
+        "group": "d34b37eea166b8aa"
+      },
+      {
+        "id": "90e10c3e603a40fd",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "代辦事項.md",
-            "mode": "source"
+            "file": "Note/STM32F407/Timer1&Timer8/X1. Input Capture mode.md",
+            "mode": "preview"
           }
-        }
+        },
+        "group": "d34b37eea166b8aa"
       }
     ],
     "direction": "vertical"
@@ -53,7 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 382
   },
   "right": {
     "id": "2fcd32f6b71456da",
@@ -69,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "代辦事項.md",
+                "file": "Note/STM32F407/Timer1&Timer8/X1. Input Capture mode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "代辦事項.md",
-    "Untitled.md",
-    "Note/MyGitHub/我的Github網址.md",
-    "Note/GitHub學習/4. Git 與 Github 實戰操作入門教學.md",
-    "Note/GitHub學習/5. Git 學習網站.md",
-    "Note/GitHub學習/3. Git基本觀念.md",
-    "Note/GitHub學習/2. 什麼是Github.md",
-    "Note/GitHub學習/1. 什麼是Git.md",
-    "Note/GitHub學習/實戰教學/1. 安裝並且設定 Git.md",
-    "Note/Pasted image 20201108211935.png"
+    "Note/STM32F407/Timer1&Timer8/X1. Input Capture mode.md",
+    "Note/STM32F407/Timer1&Timer8/X2. PWM input mode.md",
+    "Note/STM32F407/Timer1&Timer8/Untitled.md",
+    "Note/STM32F407/Timer1&Timer8/6. Center-aligned mode.md",
+    "Note/STM32F407/Timer1&Timer8/5. Downcounting mode.md",
+    "Note/STM32F407/Timer1&Timer8/4. Upcounting mode.md",
+    "Note/STM32F407/Timer1&Timer8/Downcounting mode.md",
+    "Note/STM32F407/Timer1&Timer8/Upcounting mode.md",
+    "Note/STM32F407/Timer1&Timer8/Prescaler division change.md",
+    "Note/STM32F407/Timer1&Timer8/Advanced-control timer block diagram.md"
   ]
 }
