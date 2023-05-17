@@ -10,23 +10,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note/STM32F407/Timer1&Timer8/X1. Input Capture mode.md",
+            "file": "Note/STM32F407/Timer1&Timer8/4. Upcounting mode.md",
             "mode": "source"
           }
         },
-        "group": "d34b37eea166b8aa"
+        "group": "22dbd4e6685ddd6a"
       },
       {
-        "id": "90e10c3e603a40fd",
+        "id": "431c050f3ee535a1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note/STM32F407/Timer1&Timer8/X1. Input Capture mode.md",
+            "file": "Note/STM32F407/Timer1&Timer8/4. Upcounting mode.md",
             "mode": "preview"
           }
         },
-        "group": "d34b37eea166b8aa"
+        "group": "22dbd4e6685ddd6a"
       }
     ],
     "direction": "vertical"
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/STM32F407/Timer1&Timer8/X1. Input Capture mode.md",
+                "file": "Note/STM32F407/Timer1&Timer8/4. Upcounting mode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Note/STM32F407/Timer1&Timer8/X1. Input Capture mode.md",
-    "Note/STM32F407/Timer1&Timer8/X2. PWM input mode.md",
-    "Note/STM32F407/Timer1&Timer8/Untitled.md",
-    "Note/STM32F407/Timer1&Timer8/6. Center-aligned mode.md",
-    "Note/STM32F407/Timer1&Timer8/5. Downcounting mode.md",
     "Note/STM32F407/Timer1&Timer8/4. Upcounting mode.md",
-    "Note/STM32F407/Timer1&Timer8/Downcounting mode.md",
-    "Note/STM32F407/Timer1&Timer8/Upcounting mode.md",
-    "Note/STM32F407/Timer1&Timer8/Prescaler division change.md",
-    "Note/STM32F407/Timer1&Timer8/Advanced-control timer block diagram.md"
+    "Note/STM32F407/Timer1&Timer8/3. Prescaler division change.md",
+    "Note/STM32F407/Timer1&Timer8/2. Advanced-control timer block diagram.md",
+    "Note/STM32F407/Timer1&Timer8/1. Introduction.md",
+    "Note/STM32F407/Timer1&Timer8/Untitled.md",
+    "Note/STM32F407/Timer1&Timer8/X4. Output Campare mode.md",
+    "Note/STM32F407/Timer1&Timer8/X3. Forced output mode.md",
+    "Note/STM32F407/Timer1&Timer8/X2. PWM input mode.md",
+    "Untitled.md",
+    "Note/STM32F407/Timer1&Timer8/X1. Input Capture mode.md"
   ]
 }
