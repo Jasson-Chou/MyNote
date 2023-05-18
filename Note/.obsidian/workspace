@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note/STM32F407/Timer1&Timer8/4. Upcounting mode.md",
+            "file": "Note/STM32F407/Timer1&Timer8/6. Center-aligned mode.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note/STM32F407/Timer1&Timer8/4. Upcounting mode.md",
+            "file": "Note/STM32F407/Timer1&Timer8/6. Center-aligned mode.md",
             "mode": "preview"
           }
         },
@@ -66,7 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382
+    "width": 364
   },
   "right": {
     "id": "2fcd32f6b71456da",
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/STM32F407/Timer1&Timer8/4. Upcounting mode.md",
+                "file": "Note/STM32F407/Timer1&Timer8/6. Center-aligned mode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Note/STM32F407/Timer1&Timer8/6. Center-aligned mode.md",
+    "Note/STM32F407/Timer1&Timer8/5. Downcounting mode.md",
+    "Note/STM32F407/Timer1&Timer8/7. Repetition counter.md",
+    "Note/STM32F407/Timer1&Timer8/X1. Input Capture mode.md",
+    "Note/STM32F407/Timer1&Timer8/X2. PWM input mode.md",
     "Note/STM32F407/Timer1&Timer8/4. Upcounting mode.md",
     "Note/STM32F407/Timer1&Timer8/3. Prescaler division change.md",
     "Note/STM32F407/Timer1&Timer8/2. Advanced-control timer block diagram.md",
-    "Note/STM32F407/Timer1&Timer8/1. Introduction.md",
-    "Note/STM32F407/Timer1&Timer8/Untitled.md",
-    "Note/STM32F407/Timer1&Timer8/X4. Output Campare mode.md",
-    "Note/STM32F407/Timer1&Timer8/X3. Forced output mode.md",
-    "Note/STM32F407/Timer1&Timer8/X2. PWM input mode.md",
-    "Untitled.md",
-    "Note/STM32F407/Timer1&Timer8/X1. Input Capture mode.md"
+    "Pasted image 20230515144600.png",
+    "Pasted image 20230515144326.png"
   ]
 }
