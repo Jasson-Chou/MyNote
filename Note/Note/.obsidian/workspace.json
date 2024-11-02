@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "a15a87d8b936479a",
+    "type": "split",
+    "children": [
+      {
+        "id": "58198c0bd968eafd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c196e527953b32b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6a3ee9ebbe51515",
+    "type": "split",
+    "children": [
+      {
+        "id": "bee7802969c43f60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7aaa04453579afb4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "144f5e1ca0c8e835",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "5776887d84d52c49",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "afd1a307e81bae97",
+    "type": "split",
+    "children": [
+      {
+        "id": "b32aa3ddc3cdf659",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdaae62ea0c511ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向連結"
+            }
+          },
+          {
+            "id": "4692c4b622dbfc88",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "對外連結"
+            }
+          },
+          {
+            "id": "7f2bca904beea94c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "c577c2c85dcb34aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "未命名 的大綱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "7aaa04453579afb4",
+  "lastOpenFiles": [
+    "未命名.canvas",
+    "2024-11-02.md",
+    "Telerik WPF with CSharp Note/RadGridView/Mouse Double Click Event.md",
+    "GitHub學習/3. Git基本觀念.md",
+    "Telerik WPF with CSharp Note/RadGridView",
+    "Telerik WPF with CSharp Note",
+    "GitHub學習/4. Git 與 Github 實戰操作入門教學.md",
+    "GitHub學習/5. Git 學習網站.md",
+    "Pasted image 20201108211935.png",
+    "Pasted image 20201108212113.png",
+    "SG9KG5/Waveform Tool/Algorithm - 尋找 畫面中第一個Period Index和最後一個Period Index.md"
+  ]
+}
