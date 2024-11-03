@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "e4a32c34d27c5e70",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f1a727de7749f3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c51ab28cc780cd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note/Kotlin 語言學習/Kotlin 資料型別.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kotlin 資料型別"
+            },
+            "group": "4db9e88f05e9d6c2"
+          }
+        ]
+      },
+      {
+        "id": "fe07fcece0193da8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b47f27e94857cb39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note/Kotlin 語言學習/Kotlin 資料型別.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kotlin 資料型別"
+            },
+            "group": "4db9e88f05e9d6c2"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e96e120fa81a7072",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcba4f40a1fb737d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d860b5f9e086552",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d6948b05503037c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "01ab7292cfcf6829",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 382
+  },
+  "right": {
+    "id": "2fcd32f6b71456da",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5212e1955fde46b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ab4fe813724f024",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pasted image 20201108230912.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Pasted image 20201108230912"
+            }
+          },
+          {
+            "id": "c384bd7b3dc480dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pasted image 20201108230912.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Pasted image 20201108230912"
+            }
+          },
+          {
+            "id": "94f7bacad9de0ae5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7ccda91a68c2398a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pasted image 20201108230912.png"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Pasted image 20201108230912"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8c51ab28cc780cd4",
+  "lastOpenFiles": [
+    "Note/Telerik WPF with CSharp Note/RadGridView/Mouse Double Click Event.md",
+    "Note/Kotlin 語言學習/Kotlin 資料型別.md",
+    "Note/Kotlin 語言學習",
+    "Pasted image 20201108230912.png",
+    "Note/Telerik WPF with CSharp Note/RadGridView",
+    "Note/Telerik WPF with CSharp Note",
+    "2024-11-03.md",
+    "Pasted image 20201108230851.png",
+    "Note/STM32F407/Timer1&Timer8/7. Repetition counter.md",
+    "Note/STM32F407/Timer1&Timer8/6. Center-aligned mode.md",
+    "Note/STM32F407/Timer1&Timer8/5. Downcounting mode.md",
+    "Note/STM32F407/Timer1&Timer8/4. Upcounting mode.md",
+    "Note/STM32F407/Timer1&Timer8/3. Prescaler division change.md",
+    "Note/STM32F407/Timer1&Timer8/1. Introduction.md",
+    "Note/STM32F407/Timer1&Timer8/2. Advanced-control timer block diagram.md",
+    "Note/STM32F407/Timer1&Timer8/X2. PWM input mode.md",
+    "Note/STM32F407/Timer1&Timer8/X1. Input Capture mode.md",
+    "Note/STM32F407/Timer1&Timer8/X7. 6-step PWM generation.md",
+    "Note/STM32F407/Timer1&Timer8/X6. Complementary outputs and dead-time insertion.md",
+    "Note/STM32F407/Timer1&Timer8/X5. PWM mode.md",
+    "Note/STM32F407/Timer1&Timer8/X4. Output Campare mode.md",
+    "Note/STM32F407/Timer1&Timer8/X3. Forced output mode.md",
+    "Pasted image 20230530222948.png",
+    "Note/GitHub學習/4. Git 與 Github 實戰操作入門教學.md",
+    "Note/GitHub學習/5. Git 學習網站.md",
+    "Note/GitHub學習/3. Git基本觀念.md",
+    "Note/GitHub學習/2. 什麼是Github.md",
+    "Note/GitHub學習/1. 什麼是Git.md",
+    "Note/GitHub學習/實戰教學/1. 安裝並且設定 Git.md",
+    "Note/MyGitHub/我的Github網址.md",
+    "Note/SG9KG5/Waveform Tool/Algorithm - 尋找 畫面中第一個Period Index和最後一個Period Index.md",
+    "Note/STM32F407/Timer1&Timer8/Untitled.md"
+  ]
+}
