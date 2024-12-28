@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "軟體測試/MAP Test Porgram Editor/VisualStudio管理/檔案內容.md",
+                "file": "軟體測試/MAP Test Porgram Editor/VisualStudio管理/MAP Solution Editor Application.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "檔案內容"
+              "title": "MAP Solution Editor Application"
             }
           }
         ]
@@ -162,10 +162,11 @@
   },
   "active": "c027524e4c74a7c5",
   "lastOpenFiles": [
+    "軟體測試/MAP Test Porgram Editor/VisualStudio管理/檔案內容.md",
+    "軟體測試/MAP Test Porgram Editor/VisualStudio管理/MAP Solution Editor Application.md",
     "Kotlin 語言學習/Kotlin 資料型別.md",
     "Kotlin 語言學習",
     "軟體測試/MAP Test Porgram Editor/File Extension/Editor Model 中所有 File Extension.md",
-    "軟體測試/MAP Test Porgram Editor/VisualStudio管理/檔案內容.md",
     "軟體測試/MAP Test Porgram Editor/VisualStudio管理",
     "CSharp Coding Note/Grid/Grid auto and star.md",
     "軟體測試/MAP Test Porgram Editor/File Extension",
