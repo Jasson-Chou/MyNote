@@ -7,5 +7,8 @@ Create New Visual Solution
 Rename Visual Solution
 1. Rename Visual Solution (Target SLN File Name, Desired SLN File Name )
 2. Rename Visual C Project (Target SLN File Name, Target Project Path (Ex: ProjectFolder\\Project.vcxproj), Desired Project Path )
-3. Rename Header File (Target Project File Name, Target Header Path, Desired Header Path)
+3. Rename Header File (Target Project File Name, Target Header Path, Desired Header Path, bool relocateHeaderInCpps)
 4. Rename cpp file (Target Project File Name, Target cpp File Path, Desired cpp File Path)
+
+Insert Include Header to Target Cpp Files
+1. Insert VC Header to cpp File Content(Source VC Project File Name, Source cpp Paths, Desired Include Header Paths)
